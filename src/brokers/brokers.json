@@ -1,0 +1,1 @@
+[{"id":3,"name":"Maksim","value":4500,"stocks":[{"label":"AAPL","count":2,"oldPrice":200},{"label":"AAPL","count":5,"oldPrice":200}]},{"id":4,"name":"Юля","value":22827.3,"stocks":[{"label":"AAPL","count":1,"oldPrice":172.7}]},{"name":"Nikita","value":4931,"id":5},{"id":6,"name":"Elon Musk","value":15000,"stocks":[]}]
