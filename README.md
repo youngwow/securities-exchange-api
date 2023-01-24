@@ -25,6 +25,7 @@
 ## Description
 
 [Просмотр сайта](https://youtu.be/bWYR2LjRl5M)
+
 Работает одновременно с [модулем пользователя приложения «Социальная сеть»](https://github.com/youngwow/social-network-user).
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
